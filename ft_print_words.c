@@ -2,7 +2,6 @@
 
 // Function which prints a random word from 'library'
 // Sets its status in 'availability' at 'position' to unavaiable
-
 void	ft_print_words(char **library, int amount, int *availability, int i)
 {
 	int	position;
