@@ -4,8 +4,8 @@ int	main(int argc, char **argv)
 {
 	char		**library;
 	static int	availability[2000];
-	int			requested_amount;
-	int			i;
+	int		requested_amount;
+	int		i;
 
 	// Checking 'requested_amount' of words
 	requested_amount = atoi(argv[argc - 1]);
