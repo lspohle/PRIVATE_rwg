@@ -10,9 +10,9 @@
 
 typedef enum 
 {
-		true,
-		false
-}		bool;
+	true,
+	false
+}	bool;
 bool	ft_check_requested_amount(int max_amount, int requested_amount);
 char	**ft_create_library_from_library_txt(int max_amount);
 void	ft_print_words(char **library, int *availability, int max_amount, int requested_amount,  int i);
