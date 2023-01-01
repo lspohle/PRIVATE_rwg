@@ -4,9 +4,9 @@ int	main(int argc, char **argv)
 {
 	char		**library;
 	static int	availability[2000];
-	int			max_amount;
-	int			requested_amount;
-	int			i;
+	int		max_amount;
+	int		requested_amount;
+	int		i;
 
 	// Checking 'requested_amount' of words
 	max_amount = 2000;
