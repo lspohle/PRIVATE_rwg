@@ -13,7 +13,7 @@ The program randomly generates a specific amount of words. The user may ask the 
 ## Our generator and your benefit
 1. `Git clone` the current repository.
       
-        gcc -Wall -Werror -Wextra *.c
+        git clone https://github.com/lspohle/random_words_generator.git
 2. `Compile` it by using a compiler of your choice.
       
         gcc -Wall -Werror -Wextra *.c
