@@ -27,10 +27,10 @@ int	main(int argc, char **argv)
 		i++;
 	}
 	printf(GREEN"--------------------\n");
-	
+
 	// Freeing allocated memory for 'library'
 	i = 0;
-	while (i < requested_amount)
+	while (i < max_amount)
 		free(library[i++]);
 	free(library);
 }
