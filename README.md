@@ -16,4 +16,4 @@ decided to play around a little and code one ourselves. RWG randomly generates a
 
 # Opportunities presented by RWG
 - You may adjust the amount of words to choose from by modifying RWG's '[library.txt](https://github.com/lspohle/PRIVATE_rwg/blob/main/library.txt)' and the global variable 'MAX_AMOUNT' declared in '[generator.h](https://github.com/lspohle/PRIVATE_rwg/blob/main/generator.h)'.
-- You may use a compiler for C of your choice (clange or gcc, for instance).
+- You may use a compiler for C of your choice (clang or gcc, for instance).
